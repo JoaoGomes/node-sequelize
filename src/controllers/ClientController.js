@@ -1,4 +1,3 @@
-const { SHOWINDEXES } = require("sequelize/types/lib/query-types");
 const Client = require("../models/Client");
 
 module.exports = {
