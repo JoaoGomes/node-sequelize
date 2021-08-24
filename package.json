@@ -1,9 +1,9 @@
 {
   "name": "node-sequelize",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "dev": "nodemon"
   },
   "dependencies": {
@@ -12,4 +12,7 @@
     "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
   },
-  "devDependenc
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
